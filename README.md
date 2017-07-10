@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+YimViewTool::Renderer.copyright 'Richard Yim', 'All rights reserved'
+```
 
 ## Development
 
